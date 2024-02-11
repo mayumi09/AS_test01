@@ -1,0 +1,4 @@
+App ID: 341814735419469
+App type: Academic research
+App Name : AppForRsearch01
+App secret : c46e1e2778942ae07b9d09c2e2761ac6
